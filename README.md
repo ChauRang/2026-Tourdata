@@ -21,9 +21,9 @@
 ## 🛠 기술 스택 (Tech Stack)
 - **Language:** Kotlin
 - **Architecture:** MVVM
-- **UI:** Jetpack Compose (또는 XML)
+- **UI:** Jetpack Compose
 - **Network:** Retrofit2, OkHttp
-- **Map API:** Naver Map API (또는 Kakao Map API)
+- **Map API:** Kakao Map API
 - **Asynchronous:** Coroutines, Flow
 - **Local Data:** Room Database
 
@@ -31,9 +31,7 @@
 
 | 동선 검증 플래너 | 위험도 시각화 | 패닉 버튼 실행 |
 | :---: | :---: | :---: |
-| <img src="이미지링크" width="250"/> | <img src="이미지링크" width="250"/> | <img src="이미지링크" width="250"/> |
+| <img width="293" height="641" alt="image" src="https://github.com/user-attachments/assets/c867c283-8561-4067-867a-cf6eb2b29557" /> | <img width="297" height="642" alt="image" src="https://github.com/user-attachments/assets/52ae48ab-192b-4334-a2b2-4e398560bfdc" /> |<img width="282" height="632" alt="image" src="https://github.com/user-attachments/assets/705f7e2c-2338-4425-8bdc-3c4decba0fe3" />
+ |
 
-## ⚙️ 설치 및 실행 방법
-1. 저장소를 클론합니다.
-   ```bash
-   git clone https://github.com/username/project-name.git
+
