@@ -32,6 +32,6 @@
 | 동선 검증 플래너 | 위험도 시각화 | 패닉 버튼 실행 |
 | :---: | :---: | :---: |
 | <img width="293" height="641" alt="image" src="https://github.com/user-attachments/assets/c867c283-8561-4067-867a-cf6eb2b29557" /> | <img width="297" height="642" alt="image" src="https://github.com/user-attachments/assets/52ae48ab-192b-4334-a2b2-4e398560bfdc" /> |<img width="282" height="632" alt="image" src="https://github.com/user-attachments/assets/705f7e2c-2338-4425-8bdc-3c4decba0fe3" />
- |
+ 
 
 
