@@ -19,7 +19,6 @@
 - 휠체어 접근이 가능한 화장실의 위치 및 이용 가능 여부 정보를 제공하여, 현장에서 겪을 수 있는 변수를 줄입니다.
 
 ## 🛠 기술 스택 (Tech Stack)
-*(💡 작성 팁: 실제 프로젝트에 사용하신 스택으로 수정해 주세요)*
 - **Language:** Kotlin
 - **Architecture:** MVVM
 - **UI:** Jetpack Compose (또는 XML)
